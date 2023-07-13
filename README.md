@@ -40,4 +40,4 @@ login then choose a domain name and buy</li>
 
 <hr>
 <h1>Link Deployment</h1>
-<h2><a href="kingnikola.site">Sharelinkgan</a></h2>
+<h2><a href="https://kingnikola.site">Sharelinkgan</a></h2>
