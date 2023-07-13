@@ -1,6 +1,14 @@
 <h1>
    create the branches and committing changes, and Github to make pull requests and merging the codes.
 </h1>
+git init
+git remote add origin git@github.com:User/UserRepo.git
+git add
+git checkout main
+git pull origin main 
+git merge 
+git commit -m "week4"
+git push origin main
 
 <hr>
 <h1>Purchasing Domain</h1>
@@ -17,10 +25,14 @@ login then choose a domain name and buy</li>
    <li>custom nameserver then wait for verification</li>
    <img src="Asset/Picture2.png">
 </ul>
+<ul>
    <li>login netlify using github then add site and import existing project</li>
    <img src="Asset/Picture3.png">
+</ul>
+<ul>
    <li>then add a custom domain, dns settings then wait for verification and the website can be used</li>
    <img src="Asset/Picture4.png">
+</ul>
    
 
 
