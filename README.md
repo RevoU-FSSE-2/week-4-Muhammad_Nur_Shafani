@@ -1,14 +1,16 @@
 <h1>
    create the branches and committing changes, and Github to make pull requests and merging the codes.
 </h1>
-git init
-git remote add origin git@github.com:User/UserRepo.git
-git add
-git checkout main
-git pull origin main 
-git merge 
-git commit -m "week4"
-git push origin main
+<ul>
+<li>git init</li>
+<li>git remote add origin git@github.com:User/UserRepo.git</li>
+<li>git add</li>
+<li>git checkout main</li>
+<li>git pull origin main </li>
+<li>git merge </li>
+<li>git commit -m "week4" </li>
+<li>git push origin main </li>
+</ul>
 
 <hr>
 <h1>Purchasing Domain</h1>
