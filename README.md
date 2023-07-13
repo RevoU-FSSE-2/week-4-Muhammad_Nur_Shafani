@@ -7,7 +7,7 @@
 <ul>
   <li>open commercehoster
 login then choose a domain name and buy</li>
-  <img src="Asset/picture1.png">
+  <img src="Asset/Picture1.png">
 
 </ul>
 
